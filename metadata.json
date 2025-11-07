@@ -1,0 +1,5 @@
+{
+  "name": "game hub",
+  "description": "A web application featuring a collection of classic mini-games like Tic-Tac-Toe, Guess the Number, and Rock, Paper, Scissors. Enjoy a modern and responsive gaming experience.",
+  "requestFramePermissions": []
+}
